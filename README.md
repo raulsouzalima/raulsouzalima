@@ -8,22 +8,9 @@
 [![Github](https://img.shields.io/github/followers/raulsouzalima?label=Follow&style=social)](https://github.com/raulsouzalima)
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raulsouzalima&theme=monokai">
-<p />
-
-<a href="https://github.com/raulsouzalima">
-<img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raulsouzalima&theme=dracula">
-</a>
-<a href="https://github.com/raulsouzalima">
-<img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raulsouzalima&theme=dracula&utcOffset=-3">
-</a>
-<p />
-<a href="https://github.com/raulsouzalima">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raulsouzalima&theme=dracula">
-</a>
-<a href="https://github.com/raulsouzalima">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raulsouzalima&theme=dracula">
-</a>
+[![](https://raw.githubusercontent.com/raulsouzalima/raulsouzalima/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/raulsouzalima)
+[![](https://raw.githubusercontent.com/raulsouzalima/raulsouzalima/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/raulsouzalima) [![](https://raw.githubusercontent.com/raulsouzalima/raulsouzalima/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/raulsouzalima)
+[![](https://raw.githubusercontent.com/raulsouzalima/raulsouzalima/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/raulsouzalima) [![](https://raw.githubusercontent.com/raulsouzalima/raulsouzalima/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/raulsouzalima)
 
 <!-- Copy-paste in your Readme.md file
 
